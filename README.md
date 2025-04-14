@@ -4,8 +4,12 @@ This project explores how over-speeding and alcohol consumption contribute to ro
 
 Tools Used
 EViews – for panel data regression and statistical modeling
-Microsoft Excel – for data cleaning, transformation, and structuring
-SPSS 
+
+Microsoft Excel – for data cleaning, transformation, and structuring,
+
+SPSS
+
+
 Data Source – Official government data from data.gov.in
 
 Methodology
@@ -26,10 +30,15 @@ TOTAL = β₀ + β₁ * OVERSPEED + β₂ * ALCOHOL + ε
 
 TOTAL = total number of road accidents
 OVERSPEED = number of accidents caused by speeding
+
 ALCOHOL = number of accidents caused by alcohol
+
 β₀ = starting value (when speeding and alcohol accidents are zero)
+
 β₁ = how much TOTAL increases when speeding accidents increase
+
 β₂ = how much TOTAL increases when alcohol accidents increase
+
 ε = other random factors not included in the model
 
 Summary of Findings
