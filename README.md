@@ -12,7 +12,7 @@ SPSS
 
 Data Source – Official government data from data.gov.in
 
-Methodology
+**Methodology** -
 We began by gathering and organizing accident-related data at the state level. After cleaning and converting the data into a balanced panel format, we defined our variables:
 Dependent Variable: Total number of reported road accidents (TOTAL)
 Independent Variables: Number of accidents due to over-speeding (OVERSPEED) and due to alcohol consumption (ALCOHOL)
