@@ -1,4 +1,4 @@
-# Evaluating-the-Impact-of-Over-Speeding-and-Alcohol-Consumption-on-Road-Accidents
+# Evaluating the Impact of Over Speeding & Alcohol Consumption on Road Accidents
 
 This project explores how over-speeding and alcohol consumption contribute to road traffic accidents in India. Using panel data collected from 36 states over the span of 8 years (2015–2022), we aimed to understand the statistical relationship between these factors and overall accident rates. The study uses econometric methods to draw policy-relevant conclusions that could help improve road safety enforcement in the country.
 
